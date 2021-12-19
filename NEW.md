@@ -5,11 +5,11 @@
 ### Dar Elsalam
 
 So, I'm learning using **github** no using *terminl*.
-	- Clone
-	- Status
-	- Add
-	- Commit
-	- Branching
+- Clone
+- Status
+- Add
+- Commit
+- Branching
 
 The commands of *branching* is `git branch` and `get checkout *branch_name*`
 
